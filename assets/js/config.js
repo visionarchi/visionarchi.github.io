@@ -10,6 +10,6 @@
  */
 window.VA_CONFIG = {
   channelId: "UCUj-VAmB-iDr7l9f2RsKDWA",
-  apiKey: "PASTE_YOUR_YOUTUBE_DATA_API_KEY",
+  apiKey: "AIzaSyAuLVXKuMEdhmkp7sJ7z0JNnT1UvCBd5o4",
   maxVideos: 12
 };
